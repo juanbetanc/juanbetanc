@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I'm looking to collaborate on projects that represent challenges and require me to expand and improve my knowledge and technical skills.<br>🤝 I’m looking for help with<br>🌱 I'm currently learning to work with AI using Python
+👯 I'm looking to collaborate on projects that represent challenges and require me to expand and improve my knowledge and technical skills.<br>🌱 I'm currently learning to work with AI using Python
 
 
 ## 🌐 Socials:
